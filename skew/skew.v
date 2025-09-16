@@ -54,7 +54,7 @@ Qed.
 
 *)
 
-(* This task is based on _skew binary numbers_. Everything you
+(* This task is based on skew binary numbers. Everything you
    need to know is provided here.
 
    Prove incr-correct below. Remember that your goal is to
