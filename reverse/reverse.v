@@ -113,6 +113,6 @@ Theorem inv_correct : forall (s : stmnt) (st st' : state),
   exec st s st' ->
   exec st' (inv s) st.
 Proof.
-    (* FILL IN HERE *)
+  (* FILL IN HERE *)
 Admitted.
 
